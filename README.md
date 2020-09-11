@@ -1,4 +1,6 @@
 # my_app1 
+
+##About
 This is a simple app connecting to sqlite db which was written using OOP
 
 ##Description
