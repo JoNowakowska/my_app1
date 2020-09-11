@@ -1,4 +1,5 @@
-# my_app1 - the simple app connecting to sqlite db written using OOO
+# my_app1 
+- the simple app connecting to sqlite db which was written using OOP
 
 ##Description
 This app was written thoroughly by me using my current knowledge. The idea for this app comes from a course of Teclado.
